@@ -4,12 +4,8 @@ title: Резюме
 ---
 
 # ОЛЕКСАНДР ДЕРИК
-
-**Місце проживання:**  
-**Телефон:**  
-**E-mail:**  
-**GitHab:**  
-**Месенджери:**  
+**E-mail:** alexandr.deryck@gmail.com  
+**GitHab:** [github.com/In-spectrum](https://github.com/In-spectrum)
 
 <h1 style="margin-top:0;">БАЖАНА ПОСАДА</h1>
 
