@@ -78,19 +78,17 @@ Software Developer з 5 роками стажу, та більше 10 років
 
 *2012 р. – 2025 р.*
 
-- розробив кросплатформений додаток [**"BypassNAT"**](https://github.com/In-spectrum/BypassNAT) (клієнт/сервер) для віддаленого управління комп'ютером та приладами, для платформ: **Windows**, **Ubuntu**, **ARM (Raspberry Pi)**, Android, з використанням: **C++**, **Multithreading**, **Qt**, **QML**, **TCP/IP**, **GStreamer**, **MediaMTX**;
+- розробив кросплатформений додаток [**"BypassNAT"**](https://github.com/In-spectrum/BypassNAT) (клієнт/сервер) для віддаленого управління комп'ютером та приладами, для платформ: **Windows**, **Ubuntu**, **ARM (Raspberry Pi)**, Android, з використанням: **C++**, **Multithreading**, **Qt**, **QML**, **TCP/IP**, **GStreamer**, [**MediaMTX**](https://github.com/bluenviron/mediamtx);
 
-- розробив кросплатформений мультимедійний сервіс **"CamOnTime"** (клієнт/RTSP-сервер) для збереження відео (з IP-камер) на особистому сервері та подальшого його перегляду, для платформ: **Windows**, **Ubuntu**, **ARM (Raspberry Pi)**, Android, з використанням: **C++**, **Qt**, **QML**, **TCP/IP**, **GStreamer**;
+- розробив кросплатформений мультимедійний сервіс [**"CamOnTime"**](https://github.com/In-spectrum/CamOnTime) (клієнт/RTSP-сервер) для збереження відео (з IP-камер) на особистому сервері та подальшого його перегляду, для платформ: **Windows**, **Ubuntu**, **ARM (Raspberry Pi)**, Android, з використанням: **C++**, **Qt**, **QML**, **TCP/IP**, **GStreamer**;
 
-  GitHub: [https://github.com/In-spectrum/CamOnTime](https://github.com/In-spectrum/CamOnTime)
-
-- розробив кросплатформений ігровий додаток **"Mean Mole"**, для платформ: **Windows**, **Ubuntu**, **Android**, **iOS**, **Windows Phone**, з використанням: **C++**, **Qt**, **QML**;
+- розробив кросплатформений ігровий додаток [**"Mean Mole"**](https://in-spectrum.github.io/Porfolio/index_ua.html#app_6), для платформ: **Windows**, **Ubuntu**, **Android**, **iOS**, **Windows Phone**, з використанням: **C++**, **Qt**, **QML**;
 
 - інтегрував у свої додатки та тестував приклади бібліотеки комп’ютерного зору **NVIDIA TensorFlow**, для платформи **Ubuntu Nvidia GeForce GTX 1060**, з використанням: **C++**, **Multithreading**, **Qt**;
 
 - написав веб-сторінку, яка завантажує прогноз небезпечних явищ погоди по території та формує візуальну шкалу рівня небезпеки для польотів авіації, з використанням: **HTML** та **ChatGPT**;
 
-- розробив інформативно-презентаційні веб-сторінки для додатків на GitHub: **BypassNAT**, **CamOnTime**, з використанням: **HTML**, **Markdown**;
+- розробив інформативно-презентаційні веб-сторінки для додатків на GitHub: [**BypassNAT**](https://in-spectrum.github.io/BypassNAT/), [**CamOnTime**](https://in-spectrum.github.io/CamOnTime/), з використанням: **HTML**, **Markdown**;
 
 - для тестування додатків розгорнув особистий хмарний сервер на **Oracle Cloud**;
 
