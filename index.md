@@ -14,8 +14,13 @@ title: "Portfolio"
 <h2 id="contacts" style="border:none; margin-bottom:0;">
   ✉️ Contacts
 </h2>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: alexandr.deryck@gmail.com  
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHab: <a href="https://github.com/In-spectrum" target="_blank">github.com/In-spectrum</a>  
+<div style="margin-left:20px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: alexandr.deryck@gmail.com<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub:
+  <a href="https://github.com/In-spectrum" target="_blank">
+    github.com/In-spectrum
+  </a>
+</div>
 
 <h2 style="border:none; margin-bottom:0;">
   🚀 Portfolio
