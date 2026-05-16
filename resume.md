@@ -81,7 +81,7 @@ My goal is to create efficient systems and devices.
 
 *1998 – 2018*
 
-- during approximately 5 years, managed a team of 10 people;
+- during 5 years, managed a team of 10 people;
 
 <br>
 <h1 style="margin-top:0;">⚙️ PERSONAL PROJECTS</h1>
