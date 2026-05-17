@@ -32,7 +32,7 @@ My goal is to create efficient systems and devices.
 
 <h1 style="margin-top:0;">🚀 PORTFOLIO</h1>
 
-[https://in-spectrum.github.io/Porfolio](https://in-spectrum.github.io/Porfolio/index_ua.html)
+[Porfolio](https://in-spectrum.github.io/Porfolio/index_ua.html)
 
 <br>
 <h1 style="margin-top:0;">💼 WORK EXPERIENCE</h1>
