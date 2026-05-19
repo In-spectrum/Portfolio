@@ -3,7 +3,9 @@ layout: default
 title: Resume
 ---
 
-# OLEKSANDR DERYK
+<h1 style="margin-top:0; font-size:2.5em;">
+  Oleksandr Deryk
+</h1>
 
 <h2 id="contacts" style="border:none; margin-bottom:0;">
   ✉️ Contacts
