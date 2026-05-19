@@ -26,7 +26,7 @@ title: "Portfolio"
   👨‍💻 Resume
 </h2>
 <div style="margin-left:20px;">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://in-spectrum.github.io/Porfolio/resume.html" target="_blank">
     RESUME
   </a>
