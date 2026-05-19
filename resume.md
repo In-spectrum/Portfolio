@@ -9,13 +9,15 @@ title: Resume
   ✉️ Contacts
 </h2>
 <div style="margin-left:20px;">
-E-mail: alexandr.deryck@gmail.com<br>
+E-mail: alexandr.deryck@gmail.com
+<br>
 GitHub:
   <a href="https://github.com/In-spectrum" target="_blank">
     github.com/In-spectrum
   </a>
 </div>
 
+<br>
 <h1 style="margin-top:0;">🧩 DESIRED POSITION</h1>
 
 Middle Software Developer, С++, Qt (QML), GStreamer, Video systems, Android (Java), Embedded systems.
