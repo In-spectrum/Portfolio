@@ -131,6 +131,6 @@ My goal is to create efficient systems and devices.
 <br>
 <h1 style="margin-top:0;">⚽ ADDITIONAL INFORMATION</h1>
 
-- play football, tennis and have a dumbbell at work 🙂
+- play football, tennis and have a dumbbell at work;
 ---
 
