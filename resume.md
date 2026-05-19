@@ -18,11 +18,11 @@ GitHub:
 </div>
 
 <br>
-<h1 style="margin-top:0;">🧩 DESIRED POSITION</h1>
+<h2 style="margin-top:0;">🧩 DESIRED POSITION</h2>
 
 Middle Software Developer, С++, Qt (QML), GStreamer, Video systems, Android (Java), Embedded systems.
 
-<h1 style="margin-top:0;">👨‍💻 ABOUT ME</h1>
+<h2 style="margin-top:0;">👨‍💻 ABOUT ME</h2>
 
 Software Developer with 5 years of commercial experience and more than 10 years of engineering background focused on C++, network services, multimedia and embedded systems, Android.
 
@@ -32,12 +32,12 @@ Experienced with databases, computer vision, peripheral devices, mapping, Arduin
 
 My goal is to create efficient systems and devices.
 
-<h1 style="margin-top:0;">🚀 PORTFOLIO</h1>
+<h2 style="margin-top:0;">🚀 PORTFOLIO</h2>
 
 [Porfolio](https://in-spectrum.github.io/Porfolio/index.html)
 
 <br>
-<h1 style="margin-top:0;">💼 WORK EXPERIENCE</h1>
+<h2 style="margin-top:0;">💼 WORK EXPERIENCE</h2>
 
 <h2 style="margin-top:0;">Engineer</h2>
 
@@ -86,7 +86,7 @@ My goal is to create efficient systems and devices.
 - during 5 years, managed a team of 10 people;
 
 <br>
-<h1 style="margin-top:0;">⚙️ PERSONAL PROJECTS</h1>
+<h2 style="margin-top:0;">⚙️ PERSONAL PROJECTS</h2>
 
 *2012 – 2025*
 
@@ -109,7 +109,7 @@ My goal is to create efficient systems and devices.
 - experimental development of applications for **Arduino** platform;
 
 <br>
-<h1 style="margin-top:0;">🛠 TECHNOLOGIES AND SKILLS</h1>
+<h2 style="margin-top:0;">🛠 TECHNOLOGIES AND SKILLS</h2>
 
 - **Windows, Ubuntu, Android, Mac, iOS, Arduino**;
 - Linux embedded systems (**NVIDIA Jetson TX2**, **Raspberry Pi**, **HiSilicon HIVIEW-TECH**);
@@ -131,7 +131,7 @@ My goal is to create efficient systems and devices.
 - comfortable working with legacy code;
 
 <br>
-<h1 style="margin-top:0;">⚽ ADDITIONAL INFORMATION</h1>
+<h2 style="margin-top:0;">⚽ ADDITIONAL INFORMATION</h2>
 
 - play football, tennis and have a dumbbell at work;
 ---
