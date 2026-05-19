@@ -3,7 +3,7 @@ layout: default
 title: Резюме
 ---
 
-<h1 style="margin-top:0; font-size:2.5em;">
+<h1 style="border:none; margin-top:0; font-size:2.5em;">
   Олександр Дерик
 </h1>
 
