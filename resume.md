@@ -16,6 +16,11 @@ GitHub:
     github.com/In-spectrum
   </a>
 </div>
+<h2 style="border:none; margin-bottom:0;">
+	🚀 <a href="https://in-spectrum.github.io/Porfolio/index.html" target="_blank">Porfolio</a>
+</h2>
+
+---
 
 <br>
 <h2 style="margin-top:0;">🧩 DESIRED POSITION</h2>
@@ -31,10 +36,6 @@ Developed 5+ applications for desktop PCs (Windows, Ubuntu), embedded systems, m
 Experienced with databases, computer vision, peripheral devices, mapping, Arduino.
 
 My goal is to create efficient systems and devices.
-
-<h2 style="margin-top:0;">🚀 PORTFOLIO</h2>
-
-[Porfolio](https://in-spectrum.github.io/Porfolio/index.html)
 
 <br>
 <h2 style="margin-top:0;">💼 WORK EXPERIENCE</h2>
