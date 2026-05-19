@@ -3,7 +3,10 @@ layout: default
 title: Резюме
 ---
 
-# ОЛЕКСАНДР ДЕРИК
+<h1 style="margin-top:0; font-size:2.5em;">
+  Олександр Дерик
+</h1>
+
 <h2 id="contacts" style="border:none; margin-bottom:0;">
   ✉️ Контакти
 </h2>
