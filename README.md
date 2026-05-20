@@ -3,13 +3,21 @@
   <a href="https://in-spectrum.github.io/Porfolio/index_ua.html" target="_blank">🌐 UA</a>
 </div>
 
-<h1 style="margin-top:0; font-size:2.5em;">
+<h1 style="border:none; margin-top:0; font-size:2.5em;">
   Oleksandr Deryk
 </h1>
+
 <h2 id="contacts" style="border:none; margin-bottom:0;">
   ✉️ Contacts
 </h2>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: alexandr.deryck@gmail.com  
+<div style="margin-left:20px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: alexandr.deryck@gmail.com<br>
+</div>
+<h2 style="border:none; margin-bottom:0;">
+	👨‍💻 <a href="https://in-spectrum.github.io/Porfolio/resume.html" target="_blank">Resume</a>
+</h2>
+
+---
 
 <h2 style="border:none; margin-bottom:0;">
   🚀 Portfolio
