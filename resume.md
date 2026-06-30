@@ -20,7 +20,7 @@ GitHub:
   </a>
 </div>
 <h2 style="border:none; margin-bottom:0;">
-	🚀 <a href="https://in-spectrum.github.io/Porfolio/index.html" target="_blank">Porfolio</a>
+	🚀 <a href="https://in-spectrum.github.io/Porfolio/index.html" target="_blank">Portfolio</a>
 </h2>
 
 ---
