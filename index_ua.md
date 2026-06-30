@@ -23,7 +23,7 @@ title: "Портфоліо"
   </a>
 </div>
 <h2 style="border:none; margin-bottom:0;">
-	👨‍💻 <a href="https://in-spectrum.github.io/Porfolio/resume_ua.html" target="_blank">Резюме</a>
+	👨‍💻 <a href="https://in-spectrum.github.io/Portfolio/resume_ua.html" target="_blank">Резюме</a>
 </h2>
 
 ---
