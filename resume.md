@@ -20,7 +20,7 @@ GitHub:
   </a>
 </div>
 <h2 style="border:none; margin-bottom:0;">
-	🚀 <a href="https://in-spectrum.github.io/Porfolio/index.html" target="_blank">Portfolio</a>
+	🚀 <a href="https://in-spectrum.github.io/Portfolio/index.html" target="_blank">Portfolio</a>
 </h2>
 
 ---
@@ -58,11 +58,11 @@ My goal is to create efficient systems and devices.
 
 *October 2019 – February 2022*
 
-- developed an [application](https://in-spectrum.github.io/Porfolio/index.html#app_1) (adapted for custom controller, PC and touch tablet) for controlling a thermal imaging electro-optical surveillance system for Windows, Ubuntu, **ARM (NVIDIA Jetson TX2)** platforms using: C++, Multithreading, Qt, **QML**, embedded **OSM maps**, **GStreamer**, Serial-port, **Pelco-D**;
+- developed an [application](https://in-spectrum.github.io/Portfolio/index.html#app_1) (adapted for custom controller, PC and touch tablet) for controlling a thermal imaging electro-optical surveillance system for Windows, Ubuntu, **ARM (NVIDIA Jetson TX2)** platforms using: C++, Multithreading, Qt, **QML**, embedded **OSM maps**, **GStreamer**, Serial-port, **Pelco-D**;
 
-- developed the **“Ballistic Calculator”** [application](https://in-spectrum.github.io/Porfolio/index.html#app_2) for controlling and viewing/recording video from an optical sight for Android platform using: **Java**, **GStreamer**, [HERE Map SDK](https://www.here.com);
+- developed the **“Ballistic Calculator”** [application](https://in-spectrum.github.io/Portfolio/index.html#app_2) for controlling and viewing/recording video from an optical sight for Android platform using: **Java**, **GStreamer**, [HERE Map SDK](https://www.here.com);
 
-- developed an [application](https://in-spectrum.github.io/Porfolio/index.html#app_3) (control menu, OSD) for an embedded optical reconnaissance device based on **HiSilicon “HIVIEW-TECH”** platform using: **C**, **Multithreading**, [LVGL](https://lvgl.io), **I2C**;
+- developed an [application](https://in-spectrum.github.io/Portfolio/index.html#app_3) (control menu, OSD) for an embedded optical reconnaissance device based on **HiSilicon “HIVIEW-TECH”** platform using: **C**, **Multithreading**, [LVGL](https://lvgl.io), **I2C**;
 
 - optimized legacy code for video stream processing without additional **OpenCV** libraries — using only [GStreamer](https://gstreamer.freedesktop.org);
 
@@ -77,7 +77,7 @@ My goal is to create efficient systems and devices.
 
 *November 2018 – September 2019*
 
-- developed the **«IP-cam GO»** [application](https://in-spectrum.github.io/Porfolio/index.html#app_7) (client side of multimedia system) for recording/viewing video from IP cameras on Android platform using: **Java**, **Multithreading**, **REST API**;
+- developed the **«IP-cam GO»** [application](https://in-spectrum.github.io/Portfolio/index.html#app_7) (client side of multimedia system) for recording/viewing video from IP cameras on Android platform using: **Java**, **Multithreading**, **REST API**;
 
 - teamwork with backend developer and QA engineer using **Trello** task management system;
 
@@ -99,7 +99,7 @@ My goal is to create efficient systems and devices.
 
 - developed cross-platform multimedia service [**"CamOnTime"**](https://github.com/In-spectrum/CamOnTime) (client/RTSP-server) for storing video from IP cameras on a personal server and further playback for Windows, Ubuntu, **ARM** (Raspberry Pi), Android using: C++, Qt, QML, TCP/IP, **GStreamer**;
 
-- developed cross-platform game application [**"Mean Mole"**](https://in-spectrum.github.io/Porfolio/index.html#app_6) for Windows, Ubuntu, Android, **iOS**, Windows Phone using: C++, Multithreading, Qt, QML;
+- developed cross-platform game application [**"Mean Mole"**](https://in-spectrum.github.io/Portfolio/index.html#app_6) for Windows, Ubuntu, Android, **iOS**, Windows Phone using: C++, Multithreading, Qt, QML;
 
 - integrated and tested examples of **NVIDIA TensorFlow** computer vision library in own applications on Ubuntu Nvidia GeForce GTX 1060 platform using: C++, Multithreading, Qt;
 
