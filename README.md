@@ -1,6 +1,6 @@
 
 <div align="right">
-  <a href="https://in-spectrum.github.io/Porfolio/index_ua.html" target="_blank">🌐 UA</a>
+  <a href="https://in-spectrum.github.io/Portfolio/index_ua.html" target="_blank">🌐 UA</a>
 </div>
 
 <h1 style="border:none; margin-top:0; font-size:2.5em;">
@@ -14,7 +14,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: alexandr.deryck@gmail.com<br>
 </div>
 <h2 style="border:none; margin-bottom:0;">
-	👨‍💻 <a href="https://in-spectrum.github.io/Porfolio/resume.html" target="_blank">Resume</a>
+	👨‍💻 <a href="https://in-spectrum.github.io/Portfolio/resume.html" target="_blank">Resume</a>
 </h2>
 
 ---
