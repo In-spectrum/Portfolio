@@ -44,8 +44,10 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-    
-      gtag('config', 'G-VF6ZFG0L5X');
+
+      gtag('config', 'G-VF6ZFG0L5X', {
+          page_title: '{{ page.title }}'
+      });
     </script>
 
   </head>
